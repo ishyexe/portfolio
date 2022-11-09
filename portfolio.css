@@ -2,10 +2,10 @@
 font-family: "Poppins", sans-serif; */
 
 :root {
-  --branding-color: #96bc67;
+  --secondary-color: #96bc67;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
-  --secondary-color: #6b0a84;
+  --branding-color: #6b0a84;
   --hero-color: white;
 }
 body {
@@ -16,7 +16,7 @@ p {
   font-weight: normal;
 }
 .hero {
-  background-color: var(--branding-color);
+  background-color: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
 }
@@ -42,12 +42,12 @@ p {
 }
 
 .btn-branding {
-  background: var(--secondary-color);
+  background: var(--branding-color);
   border-radius: 4px;
   color: white;
   font-size: 18px;
   line-height:27px;
-  padding: 18px 30px;
+  padding: 15px 30px;
   text-decoration: none;
  
 }
