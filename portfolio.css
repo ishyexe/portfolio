@@ -26,6 +26,7 @@ p {
 .hero p {
   font-size: 36px;
   font-weight: normal;
+  line-height: 2;
 }
 .hero h2 {
   font-size: 24px;
@@ -39,7 +40,8 @@ p {
   border-radius: 4px;
   color: white;
   font-size: 18px;
-  line-height: 27px;
+  line-height:27px;
   padding: 12px 20px;
   text-decoration: none;
+ 
 }
