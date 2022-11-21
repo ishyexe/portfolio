@@ -138,3 +138,8 @@ margin: 0;
 }
 /* font-family: 'Playfair Display', serif;
 font-family: "Poppins", sans-serif; */
+.projects {
+  font-size: 38px;
+  color:  var(--branding-color);
+  padding: 20px 0;
+}
